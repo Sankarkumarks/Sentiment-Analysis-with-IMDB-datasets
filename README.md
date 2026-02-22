@@ -51,6 +51,4 @@ It demonstrates a complete **NLP pipeline** including preprocessing, feature ext
 ---
 
 ## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-imdb.git
+go to public link: https://shankarks220-imdb-project.hf.space/?__theme=system&deep_link=VfDektYM_CM
